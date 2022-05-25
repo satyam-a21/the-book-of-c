@@ -29,5 +29,5 @@ int main (int argc, char* argv[] ){
       break;
     default: printf("Invalid Input");
   }
-  return 0
+  return 0;
 }
